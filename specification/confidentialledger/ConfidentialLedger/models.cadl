@@ -4,7 +4,7 @@ import "@azure-tools/cadl-azure-core";
 using Cadl.Rest;
 using Azure.Core;
 
-namespace Azure.ConfidentialLedger;
+namespace Azure.Security.ConfidentialLedger;
 
 @doc("collection id parameter")
 model CollectionIdParameter {
